@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "title": "Meaning similarity",
+        "description": "How similar are the meanings of these words? Do they refer to a similar concept or are they completely unrelated?",
+        "numSubtasks": 30,
+        "disclaimer": "You are participating in this experiment voluntarily and you can leave at any time.",
+        "aggregate": false
+    },
+    "instructions": {
+        "simple": "",
+        "steps": [
+            "read the instructions and the examples above",
+            "read carefully the pair of words proposed",
+            "rate the similarity of the pair of words from 1 to 5"
+        ],
+        "images": []
+    },
+    "hitCreation": {
+        "title": "Meaning similarity",
+        "description": "How similar are the meanings of these two words?",
+        "numTasks": 1,
+        "numAssignments": 10,
+        "rewardAmount": "1.00",
+        "keywords": "meaning, words, labeling, semantic similarity",
+        "duration": 1200,
+        "lifetime": 86400,
+        "taskUrl": "https://annadinatale.github.io/index_survey.html",
+        "production": true
+    }
+}
